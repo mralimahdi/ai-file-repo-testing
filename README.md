@@ -28,7 +28,7 @@ Both versions were committed to the Git repository separately. Using Git command
 The experiment successfully demonstrated how Git keeps track of design changes over time. Each modification to the Illustrator file was saved as a separate version, allowing easy comparison and recovery of previous states when required.
 
 ## Conclusion
-This experiment demonstrated how Git can be used to manage different versions of project files efficiently. Two versions of an Adobe Illustrator design file were created and committed to the repository. By using Git commands such as commit history inspection and checkout, it was possible to move between earlier and later versions of the file without losing data. The experiment confirms that Git provides a reliable mechanism for tracking changes, restoring previous versions, and maintaining a structured development workflow. This makes version control especially useful for managing design iterations and ensuring project consistency over time.
+This experiment demonstrated how Git can be used to manage different versions of project files efficiently. Two versions of an Adobe Illustrator design file were created and committed to the repository. By using Git commands such as commit history inspection and checkout, it was possible to switch between earlier and later versions of the file without losing data. The experiment confirms that Git provides a reliable mechanism for tracking changes, restoring previous versions, and maintaining a structured development workflow. This makes version control especially useful for managing design iterations and ensuring project consistency over time.
 
 ## Learning Outcome
 Through this experiment, the following concepts were learned:
